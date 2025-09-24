@@ -1,0 +1,12 @@
+=== Storyboard-Übersicht: Kosmischer Ursprung ===
+
+Dieses Storyboard strukturiert die Weltentstehung und zentralen Konzepte deines Videospiels. 
+Die Ordner gliedern sich nach thematischen Bereichen und enthalten jeweils nummerierte Textdateien:
+
+01 Universum  – kosmischer Rahmen von Urknall bis Stabilisierung.
+02 Entitäten – Licht, Schatten und ihre Abbilder als handelnde Mächte.
+03 Welten    – Entstehung und Besonderheiten der Reiche.
+04 Systeme   – Portale, Magie und ihre Anwendung im Alltag.
+05 Plot      – Konflikte, Entwicklungen und thematische Leitlinien.
+
+Nutze diese Struktur als Ausgangspunkt, um Szenen, Quests oder weitere Details zu ergänzen.
