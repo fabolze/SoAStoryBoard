@@ -1,0 +1,18 @@
+=== Storyboard Uebersicht ===
+
+Zielstruktur fuer Lore-Notizen (aus der Ordnerstruktur abgeleitet):
+- chronik: zeitliche Abfolge der Aeren und grossen Ereignisse
+- charaktere: Abbilder, Drachen, Brueder, wichtige NPCs, Spielerfigur
+- orte\Welten: einzelne Welten und ihre Funktion
+- orte\Sonstiges: Ebenen, Portale, Sonderorte
+- plot\Main Plot: Spielstart, zentraler Konflikt, Prolog und Kapitel
+- Regeln im Universum: kosmische Gesetze, Essenzstroeme, Gleichgewicht
+
+Kurzchronik (siehe detailierte Dateien in chronik):
+1) Kosmischer Ursprung (Urknall, Licht/Schatten als Essenzstroeme)
+2) Aera der Abbilder (Stellvertreter der Urkraefte, Welten entstehen)
+3) Zeitalter der Konflikte (Gleichgewicht, Essenzfluten)
+4) Zeitalter der Dark Powers (Bindung in Teleportationsebene)
+5) Zeitalter der Drachen und Vakariels Fall (ab Jahr 0)
+6) Zeit der Brueder Roznoh und Raznah (Ritualbruch, Exil)
+7) Spiel-Einstieg: Schatten von Shanoir (Prolog + Kapitel 1-2)
