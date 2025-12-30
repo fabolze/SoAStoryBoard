@@ -1,9 +1,0 @@
-=== Charaktere-Uebersicht ===
-
-Dieses Verzeichnis sammelt zentrale Figuren, die den Verlauf der Story praegen. Jede Datei beschreibt Herkunft, Motivation, Beziehungen und wichtige Stationen auf der Zeitleiste.
-
-01 Luminae          - erste manifestierte Formen des Lichts.
-02 Umbranae         - erste manifestierte Formen des Schattens.
-03 Sterbliche Keime - fruehe Kulturen, die Magie intuitiv spueren.
-
-Nutze die Dateien als lebendes Dokument: aktualisiere Meilensteine, Fuehrungsrollen und Konfliktlinien, sobald neue Ereignisse entstehen.

@@ -1,9 +1,0 @@
-=== Chronik-Uebersicht ===
-
-Die Chronik enthaelt gestufte Zeitabschnitte, um Ereignisse nachvollziehbar festzuhalten. Jeder Eintrag liefert Eckdaten, beteiligte Akteure und daraus resultierende Folgen fuer Welten und Systeme.
-
-01 Urknall bis fruehe Aeonen - Geburt von Magie, Licht, Schatten.
-02 Formung der Welten         - Aufbau von Arclumen, Tenebral und dem orbitalen Geflecht.
-03 Aufstieg der Abbilder      - Mentoring der Sterblichen, Regulierung der Portale.
-
-Fuelle jeden Abschnitt mit Szenen, Zitaten oder Quest-Hooks, um spaeter missionstaugliche Ereignisse abzuleiten.

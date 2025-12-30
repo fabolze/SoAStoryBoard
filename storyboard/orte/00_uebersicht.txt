@@ -1,9 +1,0 @@
-=== Orte-Uebersicht ===
-
-Diese Sammlung beschreibt bedeutende Welten, Knotenpunkte und Grenzraeume. Jeder Eintrag verknuepft physikalische Grundlage und magische Besonderheit, damit Reisen und Konflikte planbar bleiben.
-
-01 Leuchtende Welt   - Keimzelle der Luminae und Quelle vieler Portalsamen.
-02 Dunkles Reich     - Schattenrefugium fuer Umbranae und versteckte Bibliotheken.
-03 Knotenpunkte      - Orte, an denen Magie das Raum-Zeit-Gewebe spuerbar faltet.
-
-Halte fuer jeden Ort fest: wer ihn beeinflusst, welche Ressourcen existieren und welche Ereignisse dort dokumentiert sind.
